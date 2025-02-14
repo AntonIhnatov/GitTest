@@ -1,4 +1,4 @@
-package Exmaple;
+package Example;
 
 public class GitExample {
 }
